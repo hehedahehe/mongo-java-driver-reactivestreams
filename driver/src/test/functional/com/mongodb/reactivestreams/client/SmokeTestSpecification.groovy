@@ -20,6 +20,7 @@ import com.mongodb.MongoNamespace
 import com.mongodb.MongoDriverInformation
 import com.mongodb.client.model.IndexModel
 import com.mongodb.diagnostics.logging.Loggers
+import com.mongodb.reactivestreams.client.internal.MongoClients
 import org.bson.Document
 import spock.lang.IgnoreIf
 

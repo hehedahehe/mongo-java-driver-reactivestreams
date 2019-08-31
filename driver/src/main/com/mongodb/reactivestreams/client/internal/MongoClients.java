@@ -14,12 +14,12 @@
  * limitations under the License.
  */
 
-package com.mongodb.reactivestreams.client;
+package com.mongodb.reactivestreams.client.internal;
 
 import com.mongodb.ConnectionString;
 import com.mongodb.MongoClientSettings;
 import com.mongodb.MongoDriverInformation;
-import com.mongodb.reactivestreams.client.internal.MongoClientImpl;
+import com.mongodb.reactivestreams.client.MongoClient;
 import com.mongodb.reactivestreams.client.internal.build.MongoDriverVersion;
 import org.bson.codecs.configuration.CodecRegistry;
 

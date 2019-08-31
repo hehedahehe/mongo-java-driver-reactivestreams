@@ -22,6 +22,7 @@ import com.mongodb.MongoNamespace;
 import com.mongodb.MongoTimeoutException;
 import com.mongodb.connection.ClusterType;
 import com.mongodb.connection.ServerVersion;
+import com.mongodb.reactivestreams.client.internal.MongoClients;
 import org.bson.Document;
 import org.bson.conversions.Bson;
 import org.reactivestreams.Subscriber;

@@ -5,6 +5,8 @@ import java.util.function.Supplier;
 
 
 /**
+ * https://www.baeldung.com/java-completablefuture
+ * https://juejin.im/post/5adbf8226fb9a07aac240a67
  * CompletableFuture
  * 提供了任务编排的能力
  * The Future interface was added in Java 5 to serve as a result of an asynchronous computation,
